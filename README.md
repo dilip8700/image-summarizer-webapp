@@ -20,5 +20,5 @@ A web application that allows users to upload an image and receive a textual sum
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/image-summarizer-webapp.git
+   git clone https://github.com/dilip8700/image-summarizer-webapp.git
    cd image-summarizer-webapp
